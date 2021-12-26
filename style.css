@@ -10,6 +10,33 @@ body {
   min-height: 100vh;
   background-position: center center;
   display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
+}
+
+h1 {
+    font-size: 4rem;
+}
+
+.countdown-cont{
+    display: flex;
+}
+
+.big-text {
+    color: green;
+    font-weight: bold;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 1rem 2rem;
+}
+
+.cont-el {
+    text-align: center;
+}
+
+.cont-el span {
+    font-size: 1.5rem;
 }
