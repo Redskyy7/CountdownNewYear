@@ -10,7 +10,6 @@ body {
   min-height: 100vh;
   background-position: center center;
   display: flex;
-  background-repeat: no-repeat;
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
 }
