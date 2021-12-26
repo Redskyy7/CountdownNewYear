@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;400;600&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./NewYear.jpg");
+  background-size: cover;
+  min-height: 100vh;
+  background-position: center center;
+  display: flex;
+  background-repeat: no-repeat;
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+}
